@@ -16,5 +16,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Software/sonar-runner-dist-2.4/sonar-runner-2.4/lib/sonar-runner-dist-2.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
